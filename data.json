@@ -1,0 +1,76 @@
+{
+  "todos": [
+    {
+      "id": "e6994e84-d325-4927-bfe3-055741e05f50",
+      "title": "Single",
+      "completed": false,
+      "subTodos": [
+        {
+          "id": "06ecf703-3a82-4f32-87e0-18f43ba498a4",
+          "title": "Soul",
+          "completed": true
+        },
+        {
+          "id": "266c4002-a5e3-4244-86ec-3ccd9cf321c4",
+          "title": "Body",
+          "completed": true
+        },
+        {
+          "id": "94ba3c6e-6e55-49d6-8a41-cd221230caa3",
+          "title": "Water",
+          "completed": true
+        }
+      ],
+      "dueDate": "2023-04-07"
+    },
+    {
+      "id": "da3ad40c-33e1-4bc6-99c3-5e1b6e2b9393",
+      "title": "Sleep well",
+      "completed": false,
+      "subTodos": [
+        {
+          "id": "e9ca25ed-f1fc-4200-bb29-2ca6800ad7e5",
+          "title": "Take a nap first",
+          "completed": true
+        },
+        {
+          "id": "1a7f61cf-1f62-4e99-96f6-15b8e2b193dd",
+          "title": "Eat well",
+          "completed": false
+        }
+      ],
+      "dueDate": "2023-04-02"
+    },
+    {
+      "id": "a8e180a2-5b37-4283-a88c-8d70027bd8dd",
+      "title": "Buy Groceries",
+      "completed": false,
+      "subTodos": [],
+      "dueDate": "2023-04-06"
+    },
+    {
+      "id": "0cd55fe5-ad4c-434e-a4d6-3cc3876854e0",
+      "title": "Read a book",
+      "completed": false,
+      "subTodos": [
+        {
+          "id": "6d38b0ed-a030-4aa0-b6c1-63f84dd4f646",
+          "title": "Algorithm",
+          "completed": true
+        },
+        {
+          "id": "096faf8b-daff-487d-9131-04c3e4f5dac4",
+          "title": "Data structure",
+          "completed": false
+        }
+      ],
+      "dueDate": "2023-04-01"
+    },
+    {
+      "id": "41b1a2c7-4b66-4987-862f-9826daa99403",
+      "title": "See movies",
+      "completed": true,
+      "subTodos": []
+    }
+  ]
+}
